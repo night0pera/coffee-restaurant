@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/coffee-restaurant/static/js/main.fa2b3ca9.chunk.js",
+    "main.js.map": "/coffee-restaurant/static/js/main.fa2b3ca9.chunk.js.map",
+    "runtime-main.js": "/coffee-restaurant/static/js/runtime-main.753aa2f8.js",
+    "runtime-main.js.map": "/coffee-restaurant/static/js/runtime-main.753aa2f8.js.map",
+    "static/js/2.190aca35.chunk.js": "/coffee-restaurant/static/js/2.190aca35.chunk.js",
+    "static/js/2.190aca35.chunk.js.map": "/coffee-restaurant/static/js/2.190aca35.chunk.js.map",
+    "static/js/3.c77ad0da.chunk.js": "/coffee-restaurant/static/js/3.c77ad0da.chunk.js",
+    "static/js/3.c77ad0da.chunk.js.map": "/coffee-restaurant/static/js/3.c77ad0da.chunk.js.map",
+    "index.html": "/coffee-restaurant/index.html",
+    "static/js/2.190aca35.chunk.js.LICENSE.txt": "/coffee-restaurant/static/js/2.190aca35.chunk.js.LICENSE.txt",
+    "static/media/cover-photo.01fbe6a6.jpg": "/coffee-restaurant/static/media/cover-photo.01fbe6a6.jpg",
+    "static/media/featured3.c7d475e7.jpg": "/coffee-restaurant/static/media/featured3.c7d475e7.jpg",
+    "static/media/product-1.f3d54107.jpg": "/coffee-restaurant/static/media/product-1.f3d54107.jpg",
+    "static/media/product-2.04ccdd38.jpg": "/coffee-restaurant/static/media/product-2.04ccdd38.jpg",
+    "static/media/product-3.6a45209d.jpg": "/coffee-restaurant/static/media/product-3.6a45209d.jpg",
+    "static/media/sweet-1.ffaa02b1.jpg": "/coffee-restaurant/static/media/sweet-1.ffaa02b1.jpg",
+    "static/media/sweet-2.cf81b794.jpg": "/coffee-restaurant/static/media/sweet-2.cf81b794.jpg",
+    "static/media/sweet-3.6a5c7fd8.jpg": "/coffee-restaurant/static/media/sweet-3.6a5c7fd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753aa2f8.js",
+    "static/js/2.190aca35.chunk.js",
+    "static/js/main.fa2b3ca9.chunk.js"
+  ]
+}
